@@ -2,8 +2,8 @@
 
 | # | Task | Who | Week | Status |
 |---|------|-----|------|--------|
-| 1 | Load the 2022–2025 data and keep only the columns we need | Pershina | 1 | To Do |
-| 2 | Check which columns exist in every year and give them the same names | Pershina | 1 | To Do |
+| 1 | Load the 2022–2025 data and keep only the columns we need | Pershina | 1 | In Progress |
+| 2 | Check which columns exist in every year and give them the same names | Pershina | 1 | In Progress |
 | 3 | Clean the salary column: remove empty values and unrealistic salaries | Hennadi | 1–2 | To Do |
 | 4 | Remove duplicate rows | Hennadi | 2 | To Do |
 | 5 | Fix experience columns: turn text like "Less than 1 year" into numbers | Olga | 1–2 | To Do |
