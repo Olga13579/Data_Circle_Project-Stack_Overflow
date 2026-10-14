@@ -1,3 +1,7 @@
+Objective: To quantify the predictive power of various indicators — age, formal education level, professional experience, developer roles, employment, work environment, geographic location, etc. — on annual compensation. 
+
+The project uses datasets for 2022-2005 based on the results of the Stack Overflow Developer Survey, a comprehensive primary source representing the global software development ecosystem.
+
 Columns common to all four years (2022–2025)
 
 33 columns exist in every survey year. 
